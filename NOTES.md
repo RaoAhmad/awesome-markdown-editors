@@ -5,5 +5,8 @@
 
 - see markdown-editors-browserBased.yml
 - see markdown-editors-nativeApps.yml
+```js
+var a=10
+fun()
 
 
